@@ -1,0 +1,31 @@
+/* styles.scss */
+body {
+  background-color: salmon;
+}
+
+.buttonform {
+  background-color: #dd3f67;
+  color: rgb(145, 116, 116);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.divi {
+  display: flex;
+  justify-content: center;
+  border-radius: 4px;
+  padding: 10px 20px;
+}
+.menu {
+  padding: 20px;
+}
+.caesar {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+.encode {
+  background-color: darkslateblue;
+  color: antiquewhite;
+}
